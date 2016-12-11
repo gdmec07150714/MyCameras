@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="camera" type="id" />
+    <item name="shutter" type="id" />
+    <item name="ViewFlipper01" type="id" />
+</resources>
